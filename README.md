@@ -1,8 +1,8 @@
-# Calculadora do windows 10 em HTML
+# Calculadora em HTML
 
 [![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
 
-Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.com.
+Após fazer o projeto de calculadora clone do curso do Hcode Treianmentos pela udemy.com iniciei o desenvolvimento de uma calculadora para apromoramento de JS.
 
 ### Projeto
 ![Calculadora](https://firebasestorage.googleapis.com/v0/b/hcode-com-br.appspot.com/o/calculadora-hcode-win.png?alt=media&token=218a8f2a-b800-4d03-92e8-9e493a4e949f)
