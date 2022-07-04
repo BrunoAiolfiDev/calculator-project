@@ -1,6 +1,6 @@
 # Calculadora em HTML
 
-[![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
+[Hcode Treinamentos](https://www.hcode.com.br)
 
 Após fazer o projeto de calculadora clone do curso do Hcode Treianmentos pela udemy.com iniciei o desenvolvimento de uma calculadora para apromoramento de JS.
 
